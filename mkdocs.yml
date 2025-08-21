@@ -1,0 +1,73 @@
+site_name: 'Ryft Wettenbundel'
+site_url: https://wetten.ryftroleplay.nl/
+site_description: 'Ryft Wettenbundel'
+site_author: 'that.edward'
+
+copyright: 'Copyright &copy; 2024 Ryft Roleplay | Alle rechten voorbehouden'
+
+extra:
+  generator: false
+theme:
+  name: material
+  palette:
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: teal
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: teal
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  language: nl
+  logo: assets/logo.png
+  favicon: assets/logo.png
+markdown_extensions:
+  - toc:
+      permalink: "#"
+extra_javascript:
+  - javascripts/headercopy.js
+extra_css:
+  - stylesheets/extra.css
+nav:
+  - Home: 'index.md'
+  - APV: 'algemene-plaatselijke-verordening.md'
+  - Wetboek van Strafvordering: 'wetboek-van-strafvordering.md'
+  - Wetboek van Strafrecht: 'wetboek-van-strafrecht.md'
+  - Wet Wapens en Munitie: 'wet-wapens-en-munitie.md'
+  - Opiumwet: 'opiumwet.md'
+  - Verkeerswetgeving:
+    - Wegenverkeerswet 1994: 'verkeerswetgeving/wegenverkeerswet-1994.md'
+    - Wet Mulder: 'verkeerswetgeving/wet-mulder.md'
+    - RVV 1990: 'verkeerswetgeving/rvv-1990.md'
+    - Regeling maatregelen rijvaardigheid en geschiktheid: 'verkeerswetgeving/regeling-maatregelen-rijvaardigheid-en-geschiktheid.md'
+    - Reglement rijbewijzen: 'verkeerswetgeving/reglement-rijbewijzen.md'
+    - Reglement voertuigen: 'verkeerswetgeving/reglement-voertuigen.md'
+    - Besluit voertuigen: 'verkeerswetgeving/besluit-voertuigen.md'
+    - Feitenboekje 2024: 'https://www.om.nl/binaries/om/documenten/publicaties/mulderbundel/map/map/tekstenbundel-voor-misdrijven-overtredingen-en-muldergedragingen-2024-feitenboekjes/Feitenboekje+2024.pdf'
+  - Politiewetten:
+    - Politiewet 2012: 'politiewetten/politiewet-2012.md'
+    - Ambtsinstructie: 'politiewetten/ambtsinstructie.md'
+  - Luchtvaartwetgeving:
+    - Wet luchtvaart: 'luchtvaartwetgeving/wet-luchtvaart.md'
+    - Basisverordening : 'luchtvaartwetgeving/basisverordening.md'
+    - Regeling uitvoering en handhaving luchtvaartveiligheid : 'luchtvaartwetgeving/regeling-uitvoering-en-handhaving-luchtvaartveiligheid.md'
+  - Vaarwetgeving:
+    - Binnenvaartpolitiereglement: 'vaarwetgeving/binnenvaartpolitiereglement.md'
+    - Binnenvaartwet: 'vaarwetgeving/binnenvaartwet.md'
+    - Binnenvaartbesluit: 'vaarwetgeving/binnenvaartbesluit.md'
+    - Scheepvaartverkeerswet: 'vaarwetgeving/scheepvaartverkeerswet.md'
+  - Overig:
+    - Algemene wet bestuursrecht: 'overig/algemene-wet-bestuursrecht.md'
+    - Algemene wet op het binnentreden: 'overig/algemene-wet-op-het-binnentreden.md'
+    - Paspoortwet: 'overig/paspoortwet.md'
+    - Wet op de identificatieplicht: 'overig/wet-op-de-identificatieplicht.md'
+    - Wet gedeeltelijk verbod gezichtsbedekkende kleding: 'overig/wet-gedeeltelijk-verbod-gezichtsbedekkende-kleding.md'
+  - Strafvorderingsrichtlijnen: 'https://www.om.nl/onderwerpen/beleidsregels/richtlijnen-voor-strafvordering'
+  - Beleidsregels: 'beleidsregels.md'
