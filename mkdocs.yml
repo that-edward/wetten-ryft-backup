@@ -1,9 +1,9 @@
 site_name: 'Ryft Wettenbundel'
-site_url: https://wetten.ryftroleplay.nl/
+site_url: 'https://that-edward.github.io/wetten-ryft-backup/'
 site_description: 'Ryft Wettenbundel'
 site_author: 'that.edward'
 
-copyright: 'Copyright &copy; 2024 Ryft Roleplay | Alle rechten voorbehouden'
+copyright: 'Copyright &copy; 2025 Ryft Roleplay | Alle rechten voorbehouden'
 
 extra:
   generator: false
