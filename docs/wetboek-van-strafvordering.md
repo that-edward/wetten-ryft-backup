@@ -122,6 +122,13 @@ Het verhoor van een aangehouden verdachte vindt zoveel mogelijk plaats op een pl
 3. Niettemin kan de officier van justitie, indien het belang van het onderzoek dit vordert, de verdachte de kennisneming van bepaalde processtukken onthouden.
 4. De verdachte wordt in het geval, bedoeld in het derde lid, schriftelijk medegedeeld dat de hem ter inzage gegeven stukken niet volledig zijn. De verdachte kan binnen veertien dagen na dagtekening van de mededeling, bedoeld in de vorige volzin, en daarna telkens na periodes van dertig dagen, een bezwaarschrift indienen bij de rechter-commissaris. Alvorens te beslissen, hoort de rechter-commissaris de officier van justitie en stelt hij de verdachte in de gelegenheid om opmerkingen te maken.
 
+#### Artikel 31 WvSv [Bepaalde stukken zonder beperking]
+
+Aan de verdachte mag niet worden onthouden de volledige kennisneming van:  
+**a.** de processen-verbaal van zijn verhoren;  
+**b.** de processen-verbaal betreffende verhoren of handelingen van onderzoek, waarbij hij of zijn raadsman de bevoegdheid heeft gehad tegenwoordig te zijn, tenzij en voor zover uit een proces-verbaal blijkt van een omstandigheid waarvan hij in het belang van het onderzoek tijdelijk onkundig moet blijven, en in verband daarmee een bevel als bedoeld in artikel 46, eerste lid, is gegeven;  
+**c.** de processen-verbaal van verhoren, waarvan hem de volledige inhoud mondeling is medegedeeld.
+
 ### Titel IV Eenige bijzondere dwangmiddelen
 
 #### Artikel 52 WvSv [Vragen persoonsgegevens. Staande houden]
