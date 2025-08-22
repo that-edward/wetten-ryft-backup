@@ -124,10 +124,91 @@ Het verhoor van een aangehouden verdachte vindt zoveel mogelijk plaats op een pl
 
 #### Artikel 31 WvSv [Bepaalde stukken zonder beperking]
 
-Aan de verdachte mag niet worden onthouden de volledige kennisneming van:  
-**a.** de processen-verbaal van zijn verhoren;  
-**b.** de processen-verbaal betreffende verhoren of handelingen van onderzoek, waarbij hij of zijn raadsman de bevoegdheid heeft gehad tegenwoordig te zijn, tenzij en voor zover uit een proces-verbaal blijkt van een omstandigheid waarvan hij in het belang van het onderzoek tijdelijk onkundig moet blijven, en in verband daarmee een bevel als bedoeld in artikel 46, eerste lid, is gegeven;  
-**c.** de processen-verbaal van verhoren, waarvan hem de volledige inhoud mondeling is medegedeeld.
+1. Aan de verdachte mag niet worden onthouden de volledige kennisneming van:
+    1. de processen-verbaal van zijn verhoren;
+    2. de processen-verbaal betreffende verhoren of handelingen van onderzoek, waarbij hij of zijn raadsman de bevoegdheid heeft gehad tegenwoordig te zijn, tenzij en voor zover uit een proces-verbaal blijkt van een omstandigheid waarvan hij in het belang van het onderzoek tijdelijk onkundig moet blijven, en in verband daarmee een bevel als bedoeld in artikel 46, eerste lid, is gegeven;
+    3. de processen-verbaal van verhoren, waarvan hem de volledige inhoud mondeling is medegedeeld.
+
+#### Artikel 32 WvSv [Afschrift stukken]
+
+1. De verdachte kan van de stukken waarvan hem de kennisneming is toegestaan, ten parkette of ter griffie afschrift krijgen; doch het onderzoek mag daardoor niet worden opgehouden.
+2. In het belang van de bescherming van de persoonlijke levenssfeer, de opsporing en vervolging van strafbare feiten of op zwaarwichtige gronden aan het algemeen belang ontleend, kan de officier van justitie bepalen dat van bepaalde stukken of gedeelten daarvan geen afschrift wordt verstrekt. Indien tijdens het onderzoek ter terechtzitting nog stukken bij de processtukken worden gevoegd, kan het gerecht in feitelijke aanleg waarvoor de zaak wordt vervolgd ambtshalve, op vordering van de officier van justitie, op verzoek van de verdachte of van de benadeelde partij overeenkomstig de voorgaande volzin beslissen.
+3. De verdachte wordt in het geval, bedoeld in het tweede lid, eerste volzin, schriftelijk medegedeeld dat hem van bepaalde stukken of gedeelten daarvan geen afschrift wordt verstrekt.
+4. De verdachte kan binnen veertien dagen na dagtekening van de mededeling, bedoeld in het derde lid, daartegen een bezwaarschrift indienen bij de rechter-commissaris. Alvorens te beslissen, hoort de rechter-commissaris de officier van justitie.
+5. Bij algemene maatregel van bestuur kunnen regels worden gesteld over het verstrekken van afschriften en uittreksels en over de wijze waarop de kennisneming van processtukken plaatsvindt.
+
+#### Artikel 32a WvSv [Vertaling processtukken]
+
+1. De verdachte die de Nederlandse taal niet of onvoldoende beheerst, kan verzoeken processtukken waarvan hem de kennisneming is toegestaan en die hij noodzakelijk acht voor zijn verdediging geheel of gedeeltelijk schriftelijk te laten vertalen in een voor hem begrijpelijke taal. Het verzoek wordt schriftelijk gedaan, omschrijft zo duidelijk mogelijk de processtukken of gedeelten daarvan waarop het verzoek betrekking heeft en is met redenen omkleed.
+2. Tijdens het voorbereidend onderzoek wordt het verzoek, bedoeld in het eerste lid, gericht aan de officier van justitie; tijdens het onderzoek ter terechtzitting wordt het verzoek gericht aan het gerecht in feitelijke aanleg waarvoor de zaak wordt vervolgd.
+3. Indien de officier van justitie het verzoek, bedoeld in het eerste lid, afwijst, wordt de verdachte daarvan schriftelijk mededeling gedaan. De verdachte kan binnen veertien dagen na dagtekening van de mededeling daartegen een bezwaarschrift indienen bij de rechter-commissaris. Alvorens te beslissen, hoort de rechter-commissaris de verdachte en de officier van justitie.
+
+#### Artikel 33 WvSv [Kennisneming van alle stukken na betekening dagvaarding en uitvaardigen strafbeschikking]
+
+De kennisneming van alle processtukken in het oorspronkelijk of in afschrift mag, behoudens het bepaalde in [artikel 149b](#artikel-149b-wvsv-achterwege-laten-stukken), de verdachte niet worden onthouden zodra de dagvaarding ter terechtzitting in eerste aanleg aan hem is betekend dan wel een strafbeschikking is uitgevaardigd.
+
+#### Artikel 34 WvSv [Voegen specifieke stukken]
+
+1. De verdachte kan de officier van justitie verzoeken specifiek omschreven stukken die hij van belang acht voor de beoordeling van de zaak bij de processtukken te voegen. Het verzoek wordt schriftelijk gedaan en is met redenen omkleed.
+2. Met het oog op de onderbouwing van zijn verzoek kan de verdachte de officier van justitie toestemming verzoeken om kennis te nemen van de stukken, bedoeld in het eerste lid.
+3. Indien de officier van justitie in gebreke blijft te beslissen over het voegen van de stukken onderscheidenlijk de kennisneming daarvan, kan hem op verzoek van de verdachte door de rechter-commissaris een termijn worden gesteld binnen welke een beslissing wordt genomen. Alvorens op het verzoek te beslissen, hoort de rechter-commissaris de officier van justitie en de verdachte.
+
+### Titel III De raadsman
+
+#### Artikel 37 WvSv [Toelating als raadslieden]
+
+1. Als raadslieden worden toegelaten in Nederland op het tableau van de Nederlandse orde van advocaten ingeschreven advocaten.
+
+#### Artikel 38 WvSv [Keuze raadsman]
+
+1. De verdachte is te allen tijde bevoegd een of meer raadslieden te kiezen.
+2. Tot de keuze van een of meer raadslieden is ook de wettige vertegenwoordiger van de verdachte bevoegd.
+3. Is de verdachte verhinderd van zijn wil te doen blijken en heeft hij geen wettige vertegenwoordiger, dan is zijn echtgenoot of geregistreerde partner of de meest gerede der bloed- of aanverwanten, tot de vierde graad ingesloten, tot die keuze bevoegd.
+4. De ingevolge het tweede of het derde lid gekozen raadsman treedt terug, zodra de verdachte zelf een raadsman heeft gekozen.
+5. De gekozen raadsman geeft kennis van zijn optreden voor de verdachte aan de hulpofficier van justitie en de officier van justitie.
+6. Indien de gekozen raadsman een eerder gekozen of aangewezen raadsman vervangt, geeft hij daarvan ook kennis aan het bestuur van de raad voor rechtsbijstand; hij verwittigt ook de in het vijfde lid genoemde functionarissen en de vervangen raadsman.
+7. Door de kennisgeving aan het bestuur van de raad voor rechtsbijstand eindigen de werkzaamheden van de vervangen raadsman.
+
+#### Artikel 39 WvSv [Aanwijzen raadsman]
+
+1. Het bestuur van de raad voor rechtsbijstand wijst na de kennisgeving, bedoeld in [artikel 28b, eerste en tweede lid](#artikel-28b-wvsv-rechtsbijstand), of na de mededeling dat een verdachte in verzekering is gesteld voor wie niet eerder een raadsman is aangewezen, een raadsman aan.
+2. De verdachte kan een voorkeur voor een bepaalde raadsman kenbaar maken.
+3. vervallen.
+4. De aanwijzing eindigt met het aflopen van het ophouden voor onderzoek, dan wel van de inverzekeringstelling en de eventuele verlenging.
+
+#### Artikel 40 WvSv [Toevoegen raadsman]
+
+1. Voor de verdachte die geen raadsman heeft, wordt door het bestuur van de raad voor rechtsbijstand een raadsman aangewezen na mededeling door het openbaar ministerie dat:
+    1. ten aanzien van hem de bewaring of gevangenneming is bevolen, dan wel, indien de verdachte niet in verzekering is gesteld, ten aanzien van hem de bewaring of gevangenneming is gevorderd;
+    2. hoger beroep is ingesteld tegen het eindvonnis in eerste aanleg en het een zaak betreft waarin zijn voorlopige hechtenis is bevolen.
+2. De aangewezen raadsman geeft kennis van zijn optreden voor de verdachte aan de hulpofficier van justitie en de officier van justitie.
+
+#### Artikel 44 WvSv [Verhindering raadsman]
+
+1. Bij verhindering of ontstentenis van de aangewezen raadsman treft deze een voorziening voor zijn waarneming; indien blijkt dat dit niet is geschied, wordt zo nodig voor de verdachte onverwijld een andere raadsman aangewezen.
+2. Blijkt van de verhindering of ontstentenis van de aangewezen raadsman pas op de terechtzitting, dan geeft de voorzitter last tot aanwijzing van een andere raadsman.
+3. Op verzoek van de aangewezen raadsman of van de verdachte kan een andere raadsman worden aangewezen.
+4. Aanwijzing van een andere raadsman geschiedt door het bestuur van de raad voor rechtsbijstand die de te vervangen raadsman heeft aangewezen. In geval de raadsman is aangewezen op last van een rechterlijke autoriteit, geschiedt de vervanging door het bestuur van de raad voor rechtsbijstand met een afschrift van die vervanging aan de autoriteit die de last gaf.
+
+#### Artikel 45 WvSv [Vrije toegang]
+
+De raadsman heeft vrije toegang tot de verdachte die rechtens van zijn vrijheid is beroofd, kan hem alleen spreken en met hem brieven wisselen zonder dat van de inhoud door anderen wordt kennis genomen, een en ander onder het vereiste toezicht, met inachtneming van de huishoudelijke reglementen, en zonder dat het onderzoek daardoor mag worden opgehouden.
+
+#### Artikel 46 WvSv [Misbruik vrij verkeer]
+
+1. Indien uit bepaalde omstandigheden een ernstig vermoeden voortvloeit dat het vrije verkeer tussen raadsman en verdachte hetzij zal strekken om de verdachte bekend te maken met enige omstandigheid waarvan hij in het belang van het onderzoek tijdelijk onkundig moet blijven, hetzij wordt misbruikt voor pogingen om de opsporing der waarheid te belemmeren, kan tijdens het voorbereidend onderzoek de officier van justitie, telkens bevelen dat de raadsman geen toegang tot de verdachte zal hebben of deze niet alleen zal mogen spreken en dat brieven of andere stukken, tussen raadsman en verdachte gewisseld, niet zullen worden uitgereikt.
+2. Het bevel omschrijft de bepaalde omstandigheden bedoeld in het eerste lid; het beperkt de vrijheid van verkeer tussen raadsman en verdachte niet meer en wordt voor niet langer gegeven, dan door die omstandigheden wordt gevorderd, en is in elk geval slechts gedurende ten hoogste zes dagen van kracht. Van het bevel geschiedt schriftelijke mededeling aan de raadsman en aan de verdachte.
+3. De officier van justitie onderwerpt het bevel onverwijld aan het oordeel van de rechtbank, in het arrondissement waarin hij is aangesteld. De rechtbank beslist zo spoedig mogelijk na de raadsman te hebben gehoord, althans schriftelijk opgeroepen. De rechtbank kan bij haar beslissing het bevel opheffen, wijzigen of aanvullen.
+4. Alle belemmeringen van het vrij verkeer tussen raadsman en verdachte, die op grond van het tweede en derde lid zijn bevolen, nemen een einde zodra de dagvaarding ter terechtzitting in eerste aanleg aan de verdachte is betekend.
+
+#### Artikel 47 WvSv [Kennisgeven ontzegging toegang]
+
+1. Ingeval een bevel als bedoeld in [artikel 46](#artikel-46-wvsv-misbruik-vrij-verkeer) is gegeven, brengt de officier van justitie dit onverwijld ter kennis van de voorzitter van de rechtbank. Deze wijst onverwijld een raadsman aan.
+2. De krachtens het eerste lid aangewezen raadsman treedt, zolang het bevel van kracht is en voor zover het vrije verkeer tussen raadsman en verdachte daardoor wordt beperkt, als zodanig op.
+
+#### Artikel 48 WvSv [Kennisneming processtukken]
+
+Ten aanzien van de bevoegdheid van de raadsman tot de kennisneming van processtukken en het verkrijgen van afschrift daarvan vinden de [artikelen 30 tot en met 34](#artikel-30-wvsv-kennisneming-van-processtukken-uitzondering) overeenkomstige toepassing. Van alle stukken die ingevolge dit wetboek ter kennis van de verdachte worden gebracht, ontvangt de raadsman, behoudens het bepaalde in [artikel 32, tweede lid](#artikel-32-wvsv-afschrift-stukken), onverwijld afschrift.
 
 ### Titel IV Eenige bijzondere dwangmiddelen
 
@@ -291,6 +372,25 @@ Onder voorloopige hechtenis wordt verstaan de vrijheidsbeneming ingevolge eenig 
 2. Hij geeft daartoe bevelen aan de overige personen met de opsporing belast.
 3. Zoo de opsporing door hem persoonlijk geschiedt, doet hij van zijne bevinding blijken bij proces-verbaal opgemaakt op zijn ambtseed; daarbij moeten tevens zooveel mogelijk uitdrukkelijk worden opgegeven de redenen van wetenschap.
 
+#### Artikel 149 WvSv [Opsporingsonderzoek]
+
+Wanneer de officier van justitie kennis heeft gekregen van een strafbaar feit met welks vervolging hij is belast, stelt hij het noodige opsporingsonderzoek in.
+
+#### Artikel 149a WvSv [Samenstelling processtukken]
+
+1. De officier van justitie is tijdens het opsporingsonderzoek verantwoordelijk voor de samenstelling van de processtukken.
+2. Tot de processtukken behoren alle stukken die voor de ter terechtzitting door de rechter te nemen beslissingen redelijkerwijs van belang kunnen zijn, behoudens het bepaalde in [artikel 149b](#artikel-149b-wvsv-achterwege-laten-stukken).
+3. In de processtukken en in stukken waarvan de kennisneming ingevolge dit wetboek wordt toegestaan blijven in bij of krachtens algemene maatregel van bestuur te bepalen gevallen bepaalde daarin aan te wijzen gegevens in het belang van de bescherming van de persoonlijke levenssfeer van het slachtoffer onvermeld, tenzij deze gegevens voor door de rechter te nemen beslissingen redelijkerwijs van belang kunnen zijn.
+4. Van een processtuk in elektronische vorm kan de integriteit worden nagegaan doordat iedere wijziging daarvan kan worden vastgesteld.
+5. Bij algemene maatregel van bestuur kunnen voorschriften worden gesteld over de wijze waarop de processtukken worden samengesteld en ingericht. 
+6. De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur, dan wel de vaststelling van een ministeriële regeling op basis van een dergelijke algemene maatregel van bestuur, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd. 
+
+#### Artikel 149b WvSv [Achterwege laten stukken]
+
+1. De officier van justitie is bevoegd, indien hij dit met het oog op de in [artikel 187d, eerste lid](#artikel-187d-wvsv-beperking-door-r-c-kennisname-antwoorden), vermelde belangen noodzakelijk acht, de voeging van bepaalde stukken of gedeelten daarvan bij de processtukken achterwege te laten. Hij behoeft daartoe een schriftelijke machtiging, op diens vordering te verlenen door de rechter-commissaris. De vordering en de beschikking worden bij de processtukken gevoegd.
+2. De officier van justitie doet van de toepassing van het eerste lid en, voor zover de in [artikel 187d, eerste lid](#artikel-187d-wvsv-beperking-door-r-c-kennisname-antwoorden), vermelde belangen dat toelaten, de redenen waarom, proces-verbaal opmaken. Dit proces-verbaal wordt bij de processtukken gevoegd.
+3. Zolang de zaak niet is geëindigd, bewaart de officier van justitie de in het eerste lid bedoelde stukken.
+
 #### Artikel 152 WvSv [Proces-verbaal]
 
 1. De ambtenaren, met de opsporing van strafbare feiten belast, maken ten spoedigste proces-verbaal op van het door hen opgespoorde strafbare feit of van hetgeen door hen tot opsporing is verricht of bevonden.
@@ -339,6 +439,17 @@ Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangift
 
 1. In elke rechtbank zijn rechters-commissarissen, belast met de behandeling van strafzaken.
 2. De rechter-commissaris is in het bijzonder belast met de uitoefening van toezichthoudende bevoegdheden met betrekking tot het opsporingsonderzoek, ambtshalve in door de wet bepaalde gevallen en voorts op vordering van de officier van justitie of op verzoek van de verdachte of diens raadsman.
+
+#### Artikel 187d WvSv [Beperking door R-C kennisname antwoorden]
+
+1. De rechter-commissaris kan hetzij ambtshalve, hetzij op de vordering van de officier van justitie of het verzoek van de verdachte of diens raadsman of de getuige beletten dat antwoorden op vragen betreffende een bepaald gegeven ter kennis komen van de officier van justitie, de verdachte en diens raadsman, indien er gegrond vermoeden bestaat dat door de openbaarmaking van dit gegeven:
+    1. de getuige ernstige overlast zal ondervinden of in de uitoefening van zijn ambt of beroep ernstig zal worden belemmerd,
+    2. een zwaarwegend opsporingsbelang wordt geschaad, of
+    3. het belang van de staatsveiligheid wordt geschaad.
+2. De rechter-commissaris maakt in zijn proces-verbaal melding van de redenen waarom het bepaalde in het eerste lid toepassing heeft gevonden.
+3. De rechter-commissaris neemt de maatregelen die redelijkerwijs nodig zijn om onthulling van een gegeven als in het eerste lid bedoeld, te voorkomen. Hij is daartoe bevoegd gegevens in processtukken onvermeld te laten.
+4. Ingeval de rechter-commissaris belet dat een antwoord ter kennis komt van de officier van justitie, de verdachte of diens raadsman, doet hij in het proces-verbaal opnemen dat de gestelde vraag is beantwoord.
+5. Hoger beroep of beroep in cassatie is tegen een beslissing op grond van het eerste lid niet toegelaten.
 
 ### Titel IVA Vervolging door een strafbeschiking
 
