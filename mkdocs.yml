@@ -28,6 +28,8 @@ theme:
   language: nl
   logo: assets/logo.png
   favicon: assets/logo.png
+  font:
+    text: 'Fira Sans,Helvetica Neue,Helvetica,Roboto,Arial,sans-serif'
 markdown_extensions:
   - toc:
       permalink: "#"
