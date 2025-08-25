@@ -127,7 +127,7 @@ Het is verboden opzettelijk wederrechtelijk een aan een ander toebehorend motorr
 
 #### Artikel 71 WVW [Permanente eisen]
 
-1. Bij [ministeriële regeling](./reglement-voertuigen.md#hoofdstuk-i-algemene-eisen-voertuigen) worden regels gesteld omtrent:
+1. Bij [ministeriële regeling](./regeling-voertuigen.md#hoofdstuk-i-algemene-eisen-voertuigen) worden regels gesteld omtrent:
     1. de eisen waaraan voertuigen moeten voldoen waarmee over de weg wordt gereden, waarbij onderscheid kan worden gemaakt tussen verschillende wegen;
     2. de inrichting van voertuigen die op de weg staan;
     3. de eisen waaraan voertuigen moeten voldoen voor de afgifte van een keuringsbewijs;
