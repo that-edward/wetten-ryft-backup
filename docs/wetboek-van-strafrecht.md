@@ -39,9 +39,9 @@ Indien de rechter dit raadzaam acht in verband met de geringe ernst van het feit
 #### Artikel 10 WvSr [Duur van gevangenisstraf]
 
 1. De gevangenisstraf is levenslang of tijdelijk.
-2. De duur van de tijdelijke gevangenisstraf is ten minste een dag en ten hoogste 300 maanden.
-3. Zij kan voor ten hoogste 360 achtereenvolgende maanden worden opgelegd in de gevallen waarin op het misdrijf levenslange en tijdelijke gevangenisstraf ter keuze van de rechter zijn gesteld, en in die waarin wegens strafverhoging ter zake van samenloop van misdrijven, terroristische misdrijven, herhaling van misdrijf of het bepaalde bij [artikel 44](#artikel-44-wvsr-strafverhoging-voor-ambtenaar), de tijd van 300 maanden wordt overschreden.
-4. Zij kan in geen geval de tijd van 360 maanden te boven gaan.
+2. De duur van de tijdelijke gevangenisstraf is ten minste een dag en ten hoogste vijfentwintig jaren.
+3. Zij kan voor ten hoogste dertig achtereenvolgende jaren worden opgelegd in de gevallen waarin op het misdrijf levenslange en tijdelijke gevangenisstraf ter keuze van de rechter zijn gesteld, en in die waarin wegens strafverhoging ter zake van samenloop van misdrijven, terroristische misdrijven, herhaling van misdrijf of het bepaalde bij [artikel 44](#artikel-44-wvsr-strafverhoging-voor-ambtenaar), de tijd van 300 maanden wordt overschreden.
+4. Zij kan in geen geval de tijd van dertig jaren te boven gaan.
 
 #### Artikel 23 WvSr [Geldboete. Categorieën]
 
