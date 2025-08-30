@@ -306,6 +306,11 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 
 1. In geval van verdenking van een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), kan de opsporingsambtenaar een persoon die redelijkerwijs moet worden vermoed houder te zijn van een voor inbeslagneming vatbaar voorwerp bevelen dat hij dit ter inbeslagneming zal uitleveren.
 2. Het bevel wordt niet gegeven aan de verdachte.
+3. Op grond van hun bevoegdheid tot verschoning zijn niet verplicht aan het bevel te voldoen:
+    1. de personen bedoeld bij [artikel 217](#artikel-217-wvsv-verschoning-wegens-verwantschap);
+    2. de personen bedoeld bij de [artikelen 218](#artikel-218-wvsv-plicht-tot-geheimhouding) en [218a](#artikel-218a-wvsv-journalist-als-getuige), voorzover de uitlevering met hun plicht tot geheimhouding in strijd zou zijn;
+    3. de personen bedoeld bij [artikel 219](#artikel-219-wvsv-verschoning-op-grond-van-gevaar-van-vervolging), voorzover de uitlevering hen of een hunner daarin genoemde betrekkingen aan het gevaar van een strafrechtelijke vervolging zou blootstellen.
+4. Ten aanzien van brieven kan het bevel alleen worden gegeven, indien deze van de verdachte afkomstig zijn, voor hem bestemd zijn of op hem betrekking hebben, of wel indien zij het voorwerp van het strafbare feit uitmaken of tot het begaan daarvan gediend hebben.
 
 #### Artikel 96b WvSv [Doorzoeken vervoermiddel ter inbeslagneming]
 
@@ -332,6 +337,45 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 #### Artikel 99a WvSv [Bijstand raadsman]
 
 De verdachte is bevoegd zich tijdens het doorzoeken van plaatsen door zijn raadsman te doen bijstaan, zonder dat de doorzoeking daardoor mag worden opgehouden.
+
+### Titel IVa Bijzondere bevoegdheden tot opsporing
+
+#### Artikel 126nc WvSv [Vordering identificerende gegevens]
+
+1. In geval van verdenking van een misdrijf kan de opsporingsambtenaar in het belang van het onderzoek van degene die daarvoor redelijkerwijs in aanmerking komt en die anders dan ten behoeve van persoonlijk gebruik gegevens verwerkt, vorderen bepaalde opgeslagen of vastgelegde identificerende gegevens van een persoon te verstrekken.
+2. Onder identificerende gegevens wordt verstaan:
+    1. naam, adres, woonplaats en postadres;
+    2. geboortedatum en geslacht;
+    3. administratieve kenmerken;
+    4. in geval van een rechtspersoon, in plaats van de gegevens, bedoeld onder a en b: naam, adres, postadres, rechtsvorm en vestigingsplaats.
+3. Een vordering als bedoeld in het eerste lid kan niet worden gericht tot de verdachte. [Artikel 96a, derde lid](#artikel-96a-wvsv-bevel-tot-uitlevering-in-beslag-te-nemen-voorwerp), is van overeenkomstige toepassing. De vordering kan geen betrekking hebben op persoonsgegevens betreffende iemands godsdienst of levensovertuiging, ras, politieke gezindheid, gezondheid, seksuele leven of lidmaatschap van een vakvereniging.
+4. Een vordering als bedoeld in het eerste lid is schriftelijk en vermeldt:
+    1. een aanduiding van de persoon op wiens identificerende gegevens de vordering betrekking heeft;
+    2. de identificerende gegevens die worden gevorderd;
+    3. de termijn waarbinnen en de wijze waarop de gegevens dienen te worden verstrekt;
+    4. de titel van de vordering.
+5. Bij dringende noodzaak kan een vordering als bedoeld het eerste lid mondeling worden gegeven. De opsporingsambtenaar stelt de vordering in dat geval achteraf op schrift en verstrekt deze binnen drie dagen nadat de vordering is gedaan aan degene tot wie de vordering is gericht.
+6. Van de verstrekking van identificerende gegevens maakt de opsporingsambtenaar proces-verbaal op, waarin hij vermeldt:
+    1. de gegevens, bedoeld in het vierde lid
+    2. de verstrekte gegevens;
+    3. het misdrijf en indien bekend de naam of anders een zo nauwkeurig mogelijke aanduiding van de verdachte;
+    4. de feiten of omstandigheden waaruit blijkt dat de voorwaarden, bedoeld in het eerste lid, zijn vervuld.
+
+#### Artikel 126nd WvSv [Vordering inhoudsgegevens]
+
+1. In geval van verdenking van een misdrijf als omschreven in [artikel 67, eerste lid](#artikel-67-wvsv-voorlopige-hechtenis-ernstige-bezwaren), kan de officier van justitie in het belang van het onderzoek van degene van wie redelijkerwijs kan worden vermoed dat hij toegang heeft tot bepaalde opgeslagen of vastgelegde gegevens, vorderen deze gegevens te verstrekken.
+2. Een vordering als bedoeld in het eerste lid kan niet worden gericht tot de verdachte. [Artikel 96a, derde lid](#artikel-96a-wvsv-bevel-tot-uitlevering-in-beslag-te-nemen-voorwerp), is van overeenkomstige toepassing. De vordering kan niet betrekking hebben op persoonsgegevens betreffende iemands godsdienst of levensovertuiging, ras, politieke gezindheid, gezondheid, seksuele leven of lidmaatschap van een vakvereniging. Indien de vordering, bedoeld in het eerste lid, betrekking heeft op een persoon die aanspraak kan maken op bronbescherming, kan deze slechts worden gedaan na schriftelijke machtiging, op vordering van de officier van justitie te verlenen door de rechter-commissaris. [Artikel 218a, tweede lid](#artikel-218a-wvsv-journalist-als-getuige), is van overeenkomstige toepassing.
+3. Een vordering als bedoeld in het eerste lid is schriftelijk en vermeldt:
+    1. indien bekend, de naam of anders een zo nauwkeurig mogelijke aanduiding van de persoon of de personen over wie gegevens worden gevorderd;
+    2. een zo nauwkeurig mogelijke aanduiding van de gegevens die worden gevorderd en de termijn waarbinnen, alsmede de wijze waarop deze dienen te worden verstrekt;
+    3. de titel van de vordering.
+4. Bij dringende noodzaak kan de vordering mondeling worden gegeven. De officier van justitie stelt de vordering in dat geval achteraf op schrift en verstrekt deze binnen drie dagen nadat de vordering is gedaan aan degene tot wie de vordering is gericht.
+5. De officier van justitie doet van de verstrekking van gegevens proces-verbaal opmaken, waarin worden vermeld:
+    1. de gegevens, bedoeld in het derde lid;
+    2. de verstrekte gegevens;
+    3. het misdrijf en indien bekend de naam of anders een zo nauwkeurig mogelijke aanduiding van de verdachte;
+    4. de feiten of omstandigheden waaruit blijkt dat de voorwaarden, bedoeld in het eerste lid, zijn vervuld;
+    5. de reden waarom de gegevens in het belang van het onderzoek worden gevorderd.
 
 ### Titel VI Beteekenis van sommige in het wetboek voorkomende uitdrukkingen
 
@@ -440,6 +484,8 @@ Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangift
 1. In elke rechtbank zijn rechters-commissarissen, belast met de behandeling van strafzaken.
 2. De rechter-commissaris is in het bijzonder belast met de uitoefening van toezichthoudende bevoegdheden met betrekking tot het opsporingsonderzoek, ambtshalve in door de wet bepaalde gevallen en voorts op vordering van de officier van justitie of op verzoek van de verdachte of diens raadsman.
 
+### Titel III Onderzoek door de rechter-commissaris
+
 #### Artikel 187d WvSv [Beperking door R-C kennisname antwoorden]
 
 1. De rechter-commissaris kan hetzij ambtshalve, hetzij op de vordering van de officier van justitie of het verzoek van de verdachte of diens raadsman of de getuige beletten dat antwoorden op vragen betreffende een bepaald gegeven ter kennis komen van de officier van justitie, de verdachte en diens raadsman, indien er gegrond vermoeden bestaat dat door de openbaarmaking van dit gegeven:
@@ -450,6 +496,26 @@ Ieder die kennis draagt van een begaan strafbaar feit is bevoegd daarvan aangift
 3. De rechter-commissaris neemt de maatregelen die redelijkerwijs nodig zijn om onthulling van een gegeven als in het eerste lid bedoeld, te voorkomen. Hij is daartoe bevoegd gegevens in processtukken onvermeld te laten.
 4. Ingeval de rechter-commissaris belet dat een antwoord ter kennis komt van de officier van justitie, de verdachte of diens raadsman, doet hij in het proces-verbaal opnemen dat de gestelde vraag is beantwoord.
 5. Hoger beroep of beroep in cassatie is tegen een beslissing op grond van het eerste lid niet toegelaten.
+
+#### Artikel 217 WvSv [Verschoning wegens verwantschap]
+
+Van het geven van getuigenis of van het beantwoorden van bepaalde vragen kunnen zich verschoonen:  
+1°    des verdachten of mede-verdachten bloed- of aanverwanten in de rechte lijn;  
+2°    des verdachten of mede-verdachten bloed- of aanverwanten in de zijlijn tot den derden graad ingesloten;  
+3°    des verdachten of mede-verdachten echtgenoot of eerdere echtgenoot dan wel geregistreerde partner of eerdere geregistreerde partner.
+
+#### Artikel 218 WvSv [Plicht tot geheimhouding]
+
+Van het geven van getuigenis of van het beantwoorden van bepaalde vragen kunnen zich ook verschoonen zij die uit hoofde van hun stand, hun beroep of hun ambt tot geheimhouding verplicht zijn, doch alleen omtrent hetgeen waarvan de wetenschap aan hen als zoodanig is toevertrouwd.
+
+#### Artikel 218a WvSv [Journalist als getuige]
+
+1. Getuigen die als journalist of publicist in het kader van nieuwsgaring, beschikken over gegevens van personen die deze gegevens ter openbaarmaking hebben verstrekt, kunnen zich verschonen van het beantwoorden van vragen over de herkomst van die gegevens.
+2. De rechter-commissaris kan het beroep van de getuige, bedoeld in het eerste lid, afwijzen indien hij oordeelt dat bij het onbeantwoord blijven van vragen aan een zwaarder wegend maatschappelijk belang een onevenredig grote schade zou worden toegebracht.
+
+#### Artikel 219 WvSv [Verschoning op grond van gevaar van vervolging]
+
+De getuige kan zich verschoonen van het beantwoorden eener hem gestelde vraag, indien hij daardoor of zichzelf of een zijner bloed- of aanverwanten in de rechte lijn of in de zijlijn in den tweeden of derden graad of zijn echtgenoot of eerdere echtgenoot dan wel geregistreerde partner of eerdere geregistreerde partner aan het gevaar eener strafrechtelijke veroordeeling zou blootstellen.
 
 ### Titel IVA Vervolging door een strafbeschiking
 
