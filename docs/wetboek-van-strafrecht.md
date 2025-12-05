@@ -514,10 +514,17 @@ Hij die opzettelijk onderscheidingstekens draagt of een daad verricht behorende 
 
 ### Titel XII [Valsheid met geschriften, gegevens en biometrische kenmerken]
 
+#### Artikel 225 WvSr [Valsheid in geschrift]
+
+1. Hij die een geschrift dat bestemd is om tot bewijs van enig feit te dienen, valselijk opmaakt of vervalst, met het oogmerk om het als echt en onvervalst te gebruiken of door anderen te doen gebruiken, wordt als schuldig aan valsheid in geschrift gestraft, met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
+2. Met dezelfde straf wordt gestraft hij die opzettelijk gebruik maakt van het valse of vervalste geschrift als ware het echt en onvervalst dan wel opzettelijk zodanig geschrift aflevert of voorhanden heeft, terwijl hij weet of redelijkerwijs moet vermoeden dat dit geschrift bestemd is voor zodanig gebruik.
+3. Indien een feit, omschreven in het eerste of tweede lid, wordt gepleegd met het oogmerk om een terroristisch misdrijf voor te bereiden of gemakkelijk te maken, wordt de op het feit gestelde gevangenisstraf met een derde verhoogd.
+
 #### Artikel 231 WvSr [Vals reisdocument of identiteitskaart]
 
 1. Hij die een reisdocument, een identiteitsbewijs als bedoeld in [artikel 1](overig/wet-op-de-identificatieplicht.md#artikel-1-wid) van de Wet op de identificatieplicht of een ander identiteitsbewijs dat afgegeven is door een dienst of organisatie van vitaal of nationaal belang, valselijk opmaakt of vervalst, of een zodanig geschrift op grond van valse persoonsgegevens doet verstrekken dan wel een zodanig geschrift dat aan hem of een ander verstrekt is, ter beschikking stelt van een derde met het oogmerk het door deze te doen gebruiken als ware het aan hem verstrekt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.
 2. Met dezelfde straf wordt gestraft hij die een reisdocument of een identiteitsbewijs als bedoeld in het eerste lid aflevert of voorhanden heeft waarvan hij weet of redelijkerwijs moet vermoeden dat het vals of vervalst is, dan wel opzettelijk gebruik maakt van een vals of vervalst reisdocument of identiteitsbewijs als bedoeld in het eerste lid. Met dezelfde straf wordt gestraft hij die opzettelijk en wederrechtelijk gebruik maakt van een bij het bevoegd gezag als vermist opgegeven of een niet op zijn naam gesteld reisdocument of identiteitsbewijs als bedoeld in het eerste lid.
+3. [Artikel 225, derde lid](#artikel-225-wvsr-valsheid-in-geschrift), is van overeenkomstige toepassing.
 
 ### Titel XVI [Belediging]
 
