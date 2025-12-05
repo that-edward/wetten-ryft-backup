@@ -610,6 +610,24 @@ Onder verklaring van een deskundige wordt verstaan zijn bij het onderzoek op de 
     1. de bewezenverklaring vindt in belangrijke mate steun in andersoortig bewijsmateriaal, en
     2. door of namens de verdachte is niet op enig moment in het geding de wens te kennen gegeven om de in de aanhef bedoelde persoon te ondervragen of te doen ondervragen.
 
+#### Artikel 351 WvSv [Strafoplegging]
+
+Acht de rechtbank het telastegelegde feit bewezen, het te zijn een strafbaar feit en den verdachte deswege strafbaar, dan legt zij op de straf of den maatregel, op het feit gesteld.
+
+#### Artikel 352 WvSv [Vrijspraak. Ontslag van rechtsvervolging. Maatregelen]
+
+1. Acht de rechtbank niet bewezen dat de verdachte het hem telastegelegde feit heeft begaan, dan spreekt zij hem vrij.
+2. Acht de rechtbank het feit bewezen, doch dit niet te zijn een strafbaar feit of den verdachte deswege niet strafbaar, dan ontslaat zij hem van alle rechtsvervolging te dier zake. In het geval, bedoeld in artikel [39](./wetboek-van-strafrecht.md#artikel-39-wvsr-ontoerekeningsvatbaarheid) van het Wetboek van Strafrecht, kan zij tevens een maatregel opleggen als voorzien in artikel [37a](./wetboek-van-strafrecht.md#artikel-37a-wvsr-terbeschikkingstelling) of [37b](./wetboek-van-strafrecht.md#artikel-37b-wvsr-tbs-met-dwangverpleging) van het Wetboek van Strafrecht, indien de wettelijke voorwaarden daarvoor zijn vervuld.
+
+#### Artikel 359a WvSv [Mogelijke gevolgen van vormverzuimen bij voorbereidend onderzoek]
+
+1. De rechtbank kan, indien blijkt dat bij het voorbereidend onderzoek vormen zijn verzuimd die niet meer kunnen worden hersteld en de rechtsgevolgen hiervan niet uit de wet blijken, bepalen dat:
+    1. de hoogte van de straf in verhouding tot de ernst van het verzuim, zal worden verlaagd, indien het door het verzuim veroorzaakte nadeel langs deze weg kan worden gecompenseerd;
+    2. de resultaten van het onderzoek die door het verzuim zijn verkregen, niet mogen bijdragen aan het bewijs van het telastegelegde feit;
+    3. het openbaar ministerie niet ontvankelijk is, indien door het verzuim geen sprake kan zijn van een behandeling van de zaak die aan de beginselen van een behoorlijke procesorde voldoet.
+2. Bij de toepassing van het eerste lid, houdt de rechtbank rekening met het belang dat het geschonden voorschrift dient, de ernst van het verzuim en het nadeel dat daardoor wordt veroorzaakt.
+3. Het vonnis bevat de beslissingen vermeld in het eerste lid. Deze zijn met redenen omkleed.
+
 ### Titel VII Bijzondere bepalingen voor het rechtsgeding voor de politierechter
 
 #### Artikel 369 WvSv [Maximumstraf. Verwijzing naar meervoudige kamer]

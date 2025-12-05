@@ -128,7 +128,23 @@ Vatbaar voor onttrekking aan het verkeer zijn bovendien de aan de dader of verda
 1. Op vordering van het openbaar ministerie kan bij een afzonderlijke rechterlijke beslissing aan degene die is veroordeeld wegens een strafbaar feit de verplichting worden opgelegd tot betaling van een geldbedrag aan de staat ter ontneming van wederrechtelijk verkregen voordeel.
 2. De verplichting kan worden opgelegd aan de in het eerste lid bedoelde persoon die voordeel heeft verkregen door middel van of uit de baten van het daar bedoelde feit of andere strafbare feiten, waaromtrent voldoende aanwijzingen bestaan dat zij door de veroordeelde zijn begaan.
 
+#### Artikel 37a WvSr [Terbeschikkingstelling]
+
+1. Indien de veiligheid van anderen, dan wel de algemene veiligheid van personen of goederen dat eist, kan de rechter gelasten dat een verdachte ter beschikking wordt gesteld indien hij tot het oordeel komt dat:
+    - 1° bij de verdachte tijdens het begaan van het feit gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens bestond; en
+    - 2° het door hem begane feit een misdrijf is waarop naar de wettelijke omschrijving een gevangenisstraf van vier jaar of meer is gesteld dan wel behoort tot een van de misdrijven omschreven in de [artikelen 132](#artikel-132-wvsr-verspreiding-opruiend-geschrift), [285, eerste lid](#artikel-285-wvsr-bedreiging-met-ernstig-misdrijf) en [285b](#artikel-285b-wvsr-stalking) van het Wetboek van Strafrecht, [175, tweede lid](./verkeerswetgeving/wegenverkeerswet-1994.md#artikel-175-wvw-strafbedreiging-tzv-art-6), onderdeel b, of [derde lid](./verkeerswetgeving/wegenverkeerswet-1994.md#artikel-175-wvw-strafbedreiging-tzv-art-6) in verbinding met het [eerste lid](./verkeerswetgeving/wegenverkeerswet-1994.md#artikel-175-wvw-strafbedreiging-tzv-art-6), onderdeel b, van de Wegenverkeerswet 1994, en [11, tweede lid](./opiumwet.md#artikel-11-opw-sanctie-behorende-bij-artikel-3), van de Opiumwet.
+2. Bij toepassing van het vorige lid kan de rechter afzien van het opleggen van straf, ook indien hij oordeelt dat het feit wel aan de verdachte kan worden toegerekend.
+
+#### Artikel 37b WvSr [TBS met dwangverpleging]
+
+1. De rechter kan bevelen dat de ter beschikking gestelde van overheidswege wordt verpleegd, indien de veiligheid van anderen dan wel de algemene veiligheid van personen of goederen de verpleging eist.
+2. Indien de rechter naast de maatregel van terbeschikkingstelling met bevel tot verpleging van overheidswege een gevangenisstraf heeft opgelegd kan de rechter in zijn uitspraak een advies opnemen omtrent het tijdstip waarop de terbeschikkingstelling met verpleging van overheidswege dient aan te vangen.
+
 ### Titel III [Uitsluiting en verhoging van strafbaarheid]
+
+#### Artikel 39 WvSr [Ontoerekeningsvatbaarheid]
+
+Niet strafbaar is hij die een feit begaat, dat hem wegens de psychische stoornis, psychogeriatrische aandoening of verstandelijke handicap niet kan worden toegerekend.
 
 #### Artikel 40 WvSr [Overmacht]
 
@@ -324,6 +340,12 @@ Onder geweldsinstructie wordt verstaan de bij of krachtens de [Politiewet 2012](
 
 1. Hij die in het openbaar, mondeling of bij geschrift of afbeelding, tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag opruit, wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.
 2. Indien het strafbare feit waartoe wordt opgeruid een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf inhoudt, wordt de gevangenisstraf, gesteld op het in het eerste lid omschreven feit, met een derde verhoogd.
+
+#### Artikel 132 WvSr [Verspreiding opruiend geschrift]
+
+1. Hij die een geschrift of afbeelding waarin tot enig strafbaar feit of tot gewelddadig optreden tegen het openbaar gezag wordt opgeruid, verspreidt, openlijk tentoonstelt of aanslaat of, om verspreid, openlijk tentoongesteld of aangeslagen te worden, in voorraad heeft, wordt, indien hij weet of ernstige reden heeft te vermoeden dat in het geschrift of de afbeelding zodanige opruiing voorkomt, gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde categorie.
+2. Met dezelfde straf wordt gestraft hij die, met gelijke wetenschap of een gelijke reden tot vermoeden, de inhoud van een zodanig geschrift openlijk ten gehore brengt.
+3. Indien het strafbare feit waartoe bij geschrift of afbeelding wordt opgeruid een terroristisch misdrijf dan wel een misdrijf ter voorbereiding of vergemakkelijking van een terroristisch misdrijf inhoudt, wordt de gevangenisstraf, gesteld op het in het eerste lid omschreven feit, met een derde verhoogd.
 
 #### Artikel 138 WvSr [Huisvredebreuk]
 
