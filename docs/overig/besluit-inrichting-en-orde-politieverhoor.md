@@ -5,7 +5,7 @@
 In dit besluit wordt verstaan onder:  
 a. *de wet:* het [Wetboek van Strafvordering](../wetboek-van-strafvordering.md);  
 b. *de raadsman*: de raadsman, bedoeld in [artikel 28, eerste lid](../wetboek-van-strafvordering.md#artikel-28-wvsv-bijstand-door-raadsman), van de wet;  
-c. *de verhorende ambtenaar*: de opsporingsambtenaar die de verdachte verhoort;
+c. *de verhorende ambtenaar*: de opsporingsambtenaar die de verdachte verhoort;  
 d. *verhoorruimte*: de ruimte die wordt gebruikt voor het verhoren van de verdachte.
 
 #### Artikel 2
