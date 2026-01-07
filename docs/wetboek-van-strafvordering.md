@@ -88,6 +88,26 @@ Het verhoor van een aangehouden verdachte vindt zoveel mogelijk plaats op een pl
 1. De aangehouden verdachte voor wie ingevolge [artikel 28b](#artikel-28b-wvsv-rechtsbijstand) een raadsman beschikbaar is, wordt de gelegenheid verschaft om voorafgaand aan het eerste verhoor gedurende een termijn van ten hoogste een vijftien minuten met hem een onderhoud te hebben. De hulpofficier van justitie kan deze termijn, indien deze ontoereikend blijkt, op verzoek van de verdachte of zijn raadsman met ten hoogste een half uur verlengen, tenzij het belang van het onderzoek zich daartegen verzet. Het onderhoud kan ook door middel van telecommunicatie plaatsvinden.
 2. De verdachte, bedoeld in [artikel 28b](#artikel-28b-wvsv-rechtsbijstand), eerste lid, kan slechts afstand doen van het in het eerste lid bedoelde onderhoud, nadat hij door een raadsman over de gevolgen daarvan is ingelicht.
 
+#### Artikel 28d WvSv [Bijwonen verhoor door raadsman]
+
+1. Op verzoek van de aangehouden verdachte en de verdachte die is uitgenodigd om op een plaats van verhoor te verschijnen om te worden verhoord, kan de raadsman het verhoor bijwonen en daaraan deelnemen. Het verzoek wordt gericht aan de verhorende ambtenaar of de hulpofficier van justitie. De verhorende ambtenaar kan een verzoek van de verdachte of diens raadsman tot onderbreking van het verhoor voor onderling overleg afwijzen, indien door het voldoen aan herhaalde verzoeken de orde of de voortgang van het verhoor zou worden verstoord.
+2. De verdachte kan tijdens het verhoor dat niet door een raadsman wordt bijgewoond, verzoeken dat het wordt onderbroken voor overleg met een raadsman. De verhorende ambtenaar stelt hem daartoe zo veel mogelijk in de gelegenheid, tenzij door het voldoen aan herhaalde verzoeken de orde of de voortgang van het verhoor zou worden verstoord.
+3. De beslissing tot afwijzing van het in het eerste of tweede lid bedoelde verzoek geldt voor de duur van het desbetreffende verhoor en wordt onder opgave van de gronden waarop deze berust vermeld in het proces-verbaal van verhoor.
+4. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de inrichting van en de orde tijdens het verhoor waaraan ook de raadsman deelneemt.
+
+#### Artikel 28e WvSv [Beperken rechten verdachte]
+
+1. De hulpofficier van justitie kan beslissen dat:
+    1. de aangehouden verdachte, zonder dat deze in de gelegenheid wordt gesteld zijn in [artikel 28, eerste lid](#artikel-28-wvsv-bijstand-door-raadsman), bedoelde recht uit te oefenen, terstond na zijn aanhouding ter plaatse wordt verhoord,
+    2. met het in [artikel 28d, eerste lid](#artikel-28d-wvsv-bijwonen-verhoor-door-raadsman), bedoelde verhoor wordt begonnen zonder dat een raadsman beschikbaar is,
+    3. met het in [artikel 28d, eerste lid](#artikel-28d-wvsv-bijwonen-verhoor-door-raadsman), bedoelde verhoor wordt begonnen of dit verhoor wordt voortgezet zonder dat de aangehouden verdachte gelegenheid wordt geboden voor het in [artikel 28c, eerste lid](#artikel-28c-wvsv-overleg-met-raadsman-vóór-verhoor), bedoelde onderhoud, of
+    4. de raadsman niet tot het in [artikel 28d, eerste lid](#artikel-28d-wvsv-bijwonen-verhoor-door-raadsman), bedoelde verhoor wordt toegelaten.
+2. De in het eerste lid bedoelde beslissingen kunnen alleen worden genomen voor zover en voor zolang als deze worden gerechtvaardigd door de dringende noodzaak om:
+    1. ernstige negatieve gevolgen voor het leven, de vrijheid of de fysieke integriteit van een persoon te voorkomen of
+    2. te voorkomen dat aanzienlijke schade aan het onderzoek wordt toegebracht.
+3. De beslissing, bedoeld in het eerste lid, onder b, c of d, kan door de hulpofficier van justitie alleen met toestemming van de officier van justitie worden genomen.
+4. De beslissing en de gronden waarop deze berust, worden in het proces-verbaal van het verhoor vermeld.
+
 #### Artikel 29 WvSv [Verklaringsvrijheid en zwijgrecht]
 
 1. In alle gevallen waarin iemand als verdachte wordt gehoord, onthoudt de verhorende rechter of ambtenaar zich van alles wat de strekking heeft een verklaring te verkrijgen waarvan niet kan worden gezegd dat zij in vrijheid is afgelegd.
