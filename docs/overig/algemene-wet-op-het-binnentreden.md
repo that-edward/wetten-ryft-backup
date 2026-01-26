@@ -13,6 +13,19 @@
 2. Onze Minister van Justitie stelt het model van deze machtiging vast.
 3. Een schriftelijke machtiging als bedoeld in het eerste lid is niet vereist, indien ter voorkoming of bestrijding van ernstig en onmiddellijk gevaar voor de veiligheid van personen of goederen terstond in de woning moet worden binnengetreden.
 
+#### Artikel 3 Awbi [Tot machtiging bevoegden]
+
+1. Bevoegd tot het geven van een machtiging tot binnentreden zijn:
+    1. de advocaat-generaal bij het ressortsparket;
+    2. de officier van justitie;
+    3. de hulpofficier van justitie.
+2. Voor zover de wet niet anders bepaalt, is de burgemeester bevoegd tot het geven van een machtiging tot binnentreden in een woning gelegen binnen zijn gemeente voor andere doeleinden dan strafvordering.
+3. Degene die bevoegd is een machtiging te geven, gaat daartoe slechts over, indien het doel waartoe wordt binnengetreden het binnentreden zonder toestemming van de bewoner redelijkerwijs vereist.
+
+#### Artikel 9 Awbi [Verschaffen van toegang. Sterke arm]
+
+Degene die bevoegd is zonder toestemming van de bewoner binnen te treden, kan zich de toegang tot of de doorgang in de woning verschaffen, voor zover het doel van het binnentreden dit redelijkerwijs vereist. Hij kan daartoe zo nodig de hulp van de sterke arm inroepen. 
+
 #### Artikel 12 Awbi [Verboden plaatsen]
 
 In de gevallen waarin het binnentreden van plaatsen krachtens een wettelijke voorschrift is toegelaten, geschiedt dit buiten het geval van ontdekking op heterdaad niet:
