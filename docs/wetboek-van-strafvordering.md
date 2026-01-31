@@ -358,6 +358,12 @@ Iedere opsporingsambtenaar is bevoegd de identiteit van de verdachte vast te ste
 
 De verdachte is bevoegd zich tijdens het doorzoeken van plaatsen door zijn raadsman te doen bijstaan, zonder dat de doorzoeking daardoor mag worden opgehouden.
 
+#### Artikel 110 WvSv [Doorzoeken van elke plaats ter inbeslagneming. Aanwezigheid OvJ. Rechtsbijstand]
+
+1. De rechter-commissaris kan, op vordering van de officier van justitie, ter inbeslagneming elke plaats doorzoeken. Hij kan zich daarbij doen vergezellen van bepaalde door hem aangewezen personen. De vordering vermeldt het strafbare feit en indien bekend de naam of anders een zo nauwkeurig mogelijke omschrijving van de verdachte, alsmede de feiten of omstandigheden waaruit blijkt dat de wettelijke voorwaarden voor uitoefening van de bevoegdheid zijn vervuld.
+2. Het doorzoeken van plaatsen overeenkomstig het bepaalde in het eerste lid geschiedt onder leiding van de rechter-commissaris in tegenwoordigheid van de officier van justitie of, in geval van diens verhindering, van een hulpofficier van justitie.
+3. Het artikel [99a](#artikel-99a-wvsv-bijstand-raadsman) is van overeenkomstige toepassing.
+
 ### Titel IVa Bijzondere bevoegdheden tot opsporing
 
 #### Artikel 126nc WvSv [Vordering identificerende gegevens]
